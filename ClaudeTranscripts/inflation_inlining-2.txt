@@ -155,3 +155,12 @@ Modified rule: S
 Modified by: R
 Updated text for rule S: <new text replacing Y with X>
 ---
+Based on the information provided, §63(c)(7)(B)(ii) applies for determining the standard deduction in 2025. This rule requires substituting "2017" for "2016" in §1(f)(3)(A)(ii).
+
+Modified rule: §1(f)(3)(A)
+Modified by: §63(c)(7)(B)(ii)
+Updated text for rule §1(f)(3)(A):
+(A) In general
+The cost-of-living adjustment for any calendar year is the percentage (if any) by which—
+(i) the C-CPI-U for the preceding calendar year, exceeds 
+(ii) the CPI for calendar year 2017, multiplied by the amount determined under subparagraph (B).
