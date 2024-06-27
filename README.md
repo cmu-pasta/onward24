@@ -12,3 +12,7 @@ See `system-prompt.txt` for the system prompt used in all examples. For all exam
 The folder `ClaudeTranscripts` contains transcripts of conversations with [Anthropic's Claude 3 Opus](https://www.anthropic.com/claude) which formed the basis of examples provided in the paper. The model version used for these transcripts was `claude-3-opus-20240229` with `temperature=0` and `max_tokens=2000`.
 
 In each transcript file, messages (system prompt, user prompt, AI response) are separated by a line containing only `---`.
+
+## Property-Based Testing
+
+The folder `PropertyBasedTesting` contains a Python script to invoke Claude in a loop to check the property that year-over-year standard deduction cannot decrease. The program runs until a violation of this property is discovered, which takes about 2.4 iterations on average.
